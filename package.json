@@ -1,0 +1,19 @@
+{
+  "name": "url-shortening-app",
+  "version": "1.0.0",
+  "description": "An old Angular app that I made with a node and mongodb backend from a while ago. Initializing repo since it was saved to an old computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanCSnyder/urlShortnerAngularApp.git"
+  },
+  "author": "Daniel Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanCSnyder/urlShortnerAngularApp/issues"
+  },
+  "homepage": "https://github.com/DanCSnyder/urlShortnerAngularApp#readme"
+}
