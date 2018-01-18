@@ -1,12 +1,16 @@
-# shortly
+Shortly
+=========
 
-## This project was a project I built when I was learning Angular several years ago. It was interesting learning the Angular way to do things. A lot of the tooling is now outdated and there are better alternatives to use today.
+ This project was something that I built when I was learning Angular a couple years ago. It is an application that takes a url and shortens it to something more managable. It uses an old Node (Express) and MongoDB backend I wrote too.
 
-* NODE
+System Requirements:
+-------------------
+
 * NPM
 * MongoDB
 
-  Installation
+Installation
+-------------------
 
 ---
 
